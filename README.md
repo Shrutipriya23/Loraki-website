@@ -12,7 +12,7 @@ This project is a static website for showcasing the Loruki cloud hosting platfor
 6. Contributing
 7. License
 8. Demo
-   You can access a live demo of the website here.`https://reliable-centaur-497c8d.netlify.app `
+   You can access a live demo of the website here.`[[(https://loraki.netlify.app/)](https://loraki.netlify.app/) `
 
 ## Features
 
